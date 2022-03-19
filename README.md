@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](C:\Users\aryes\Documents\Education\Patika\github.png)
+![](https://drive.google.com/file/d/12LF50FsqPgfo3mdmaCJVPus2ZhOZTMa8/view?usp=sharing)
 
 
 
